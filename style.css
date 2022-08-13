@@ -1,7 +1,9 @@
-/* 
-        Howdy! 
-        This is your styling page (css: casscading style sheet)
-        
-        This is a comment. Outside of this section, you will add
-        specific styles to add some pizzaz to your website.
- */
+body {
+        background-color: #2E2C2C;
+        color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#info {
+        padding-top: 36px;
+}
